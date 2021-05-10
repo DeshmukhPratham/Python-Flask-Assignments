@@ -1,4 +1,4 @@
-'''value = 10
+value = 10
 print(type(value))
 
 value=str(value)
@@ -8,5 +8,5 @@ value=bool(value)
 print(type(value))
 
 value=float(value)
-print(type(value))'''
+print(type(value))
 
